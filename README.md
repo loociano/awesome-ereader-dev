@@ -1,7 +1,9 @@
 # Awesome Nintendo e-Reader Development
 
 A curated list of awesome e-Reader Development resources, tools, docs, related projects and open-source ROMs.
-Inspired by the [awesome](https://github.com/gbdev/awesome-gbdev) list thing.
+Inspired by the [awesome-gbdev](https://github.com/gbdev/awesome-gbdev).
+
+Check out the [Wiki](https://github.com/loociano/awesome-ereader-dev/wiki) as well.
 
 ## Technical Documentation
 
