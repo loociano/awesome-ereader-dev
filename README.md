@@ -7,7 +7,7 @@ Check out the [Wiki](https://github.com/loociano/awesome-ereader-dev/wiki) as we
 
 ## Technical Documentation
 
-* [GBATEK: GBA Cart e-Reader](https://www.akkit.org/info/gbatek.htm#gbacartereader) ⭐⭐⭐
+* [GBATEK: GBA Cart e-Reader](https://problemkaputt.de/gbatek.htm#gbacartereader) ⭐⭐⭐
 * [CaitSith2's Nintendo E-Reader Site](https://www.caitsith2.com/ereader)
 * [Tim Schuerewegen's Nintendo E-reader Site](http://users.skynet.be/firefly/gba/e-reader)
 * [e-Reader, The Cutting Room Floor](https://tcrf.net/E-Reader)
